@@ -1,3 +1,4 @@
+[Image](https://github.com/user-attachments/assets/a7d93c5a-522f-4a65-bfa9-397c7fc74246)
 # Console-Based Scientific Calculator (Python)
 
 A *console-based scientific calculator* built using *Python. This project supports basic arithmetic as well as advanced mathematical operations such as trigonometric functions, logarithms, powers, and square roots. It is designed for **beginners* to practice Python fundamentals and command-line interaction.
